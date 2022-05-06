@@ -1,7 +1,7 @@
 # Code Challenge
 
 ## FrontEnd, Languages and tools.
-The app is deployed on Heroku "link". The frontend
+The app is deployed on Heroku "https://codechallengefrontfrancocapone.herokuapp.com/". The frontend
 is built on React.js and it displays the products
 that the API exposes through the backend.
  I used material UI for the components of the app.

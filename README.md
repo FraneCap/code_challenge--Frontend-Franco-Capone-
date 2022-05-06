@@ -12,7 +12,7 @@ that the API exposes through the backend.
  modal makes it more clean than opening a new tab
 
 ### To improve
-  Loading effects, 
+  Loading effects, UI, general stetics.
 
 ### Github
 Here's the Github link to the frontend's repository:"https://github.com/FraneCap/code_challenge--Frontend-Franco-Capone-"
